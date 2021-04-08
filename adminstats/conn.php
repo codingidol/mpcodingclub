@@ -3,10 +3,10 @@
 ### EDIT HERE ###
 
 // DB CONNECT INFO
-$db_host = "localhost";
-$db_name = "blog_admin_db";
-$db_user = "root";
-$db_pw = "";
+$db_host = "freedb.tech";
+$db_name = "freedbtech_blogadmindb";
+$db_user = "freedbtech_mpcodingclub";
+$db_pw = "Coding@1#2";
 
 // DB TABLE INFO
 $GLOBALS['hits_table_name'] = "page_hits";
